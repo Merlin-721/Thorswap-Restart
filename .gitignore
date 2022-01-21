@@ -1,0 +1,15 @@
+env/
+debug*
+.idea/
+__pycache__/
+secret/
+.pytest_cache/
+tox.ini
+.travis.yml
+venv/
+.DS_Store
+dist/
+numpy/
+*.zip
+debug*
+*.txt
